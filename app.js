@@ -24,8 +24,8 @@ const hostname =  process.env.hostnames;
  });
 
 
- app.get("/krishna", (req, res)=> {
-    res.send("hello krishna")
+ app.get("/gauri", (req, res)=> {
+    res.send("hello gauri")
  })
 
  app.get("/home", (req, res)=> {
