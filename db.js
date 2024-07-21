@@ -1,19 +1,24 @@
 export const course= [
     {
        id:1,
-       courseName: "MERN",
+       courseName: "Backend developer",
 
     },
 
     {
        id:2,
-       courseName: "MEAN",
+       courseName: "Fullstack developer",
 
     },
     {
        id:2,
-       courseName: "MEAN",
+       courseName: "Middleware developer",
 
     },
+    {
+      id:2,
+      courseName: "stoftware developer",
+
+   },
  ]
  

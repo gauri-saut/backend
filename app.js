@@ -15,11 +15,8 @@ const port = process.env.port;
 const hostname =  process.env.hostnames;
 
 
- app.get("/", (req,res)=> {
+ app.get("/", (req, res)=> {
 
-
-
-  
     res.send(course)
  });
 
